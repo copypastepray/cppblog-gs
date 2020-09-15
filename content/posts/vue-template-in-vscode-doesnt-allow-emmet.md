@@ -1,10 +1,10 @@
 ---
-title: Vue Template in VS Code doesn't allow Emmet
+title: "Vue Template in VS Code doesn't allow Emmet"
 date: 2020-08-10
 published: true
 tags: ['vscode','html','vue','emmet']
 canonical_url: false
-description: "I've recently been writing in Vue a lot more, and I ran into an issue in VS Code. Vue's <template> doesn't recognize Emmet abbreviations in VS Code. It doesn't seem like such a big deal I guess, but it makes everything slower when I'm coding and is a bit of an annoyance at best. I found a fix and wanted to share in case you have the same issue."
+description: "I've recently been writing in Vue a lot more, and I ran into an issue in VS Code. Vue's template doesn't recognize Emmet abbreviations in VS Code. It doesn't seem like such a big deal I guess, but it makes everything slower when I'm coding and is a bit of an annoyance at best. I found a fix and wanted to share in case you have the same issue."
 ---
 ![vscode emmet problem](https://dev-to-uploads.s3.amazonaws.com/i/oh9v54ix8yv3d548ss6l.png)
 I've recently been writing in Vue a lot more, and I ran into an issue in VS Code. Vue's `<template>` doesn't recognize Emmet abbreviations in VS Code. It doesn't seem like such a big deal I guess, but it makes everything slower when I'm coding and is a bit of an annoyance at best. I found a fix and wanted to share in case you have the same issue.
