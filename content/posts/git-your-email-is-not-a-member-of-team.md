@@ -1,5 +1,5 @@
 ---
-title: Git: Your Email is not a member of team
+title: [Git] Your Email is not a member of team
 date: 2020-08-04
 published: true
 tags: ['git','commandline','gitlab','config']
